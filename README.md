@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **jashanmaan459@gmail.com**
 
-- ⚡ Fun fact **I am funny .**
+- ⚡  **I am funny .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
