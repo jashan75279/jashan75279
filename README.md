@@ -1,4 +1,4 @@
-![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif))
+![MasterHead]((https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif))
 
 <h1 align="center">Hi 👋, I'm Jashanpreet Singh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
