@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif)
+![MasterHead](https://thumbs.gfycat.com/ColorlessBitesizedKob-max-1mb.gif)
 
 <h1 align="center">Hi 👋, I'm Jashanpreet Singh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
